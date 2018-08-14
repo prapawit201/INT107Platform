@@ -1,0 +1,46 @@
+body{
+		background-image: url("1.jpg");
+		background-repeat: no-repeat;
+		font-family: 'Abel', sans-serif;
+		font-size: 18px;
+		color: black;
+	}
+
+#block{
+		margin: 30px;
+ 		background-color: rgb(255,255,255,0.6);
+  		border: 2px solid black;
+  		height: 690px;
+  		font-family: 'Abel', sans-serif;
+
+	}
+#card{
+	border: 1px solid black;
+	box-shadow: 5px 5px 5px black;
+	float: left;
+	margin-top: 30px;
+	margin-left: 280px;
+	}
+#card-text{
+	font-family: 'Abel', serif;
+	font-size: 25px;
+}
+#header{
+	margin-top: 20px;
+	font-size: 50px;
+}
+#form{
+	margin: 30px;
+ 		background-color: rgb(255, 192, 203,0.4);
+  		border: 1px solid black;
+  		height: 510px;
+  		width: 400px;
+  		float: right;
+  		margin-right: 290px;
+  		font-family: 'Athiti', sans-serif;
+  		font-size: 30px;
+  		padding-top: 80px;
+  		text-align: center;
+  		box-shadow: 5px 5px 5px black;
+
+}
